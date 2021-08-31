@@ -21,7 +21,6 @@ void* copy_elements(void* ele_src[], int ele_cnt, size_t ele_size) {
 }
 
 int main() {
-
     return 0;
 }
 
